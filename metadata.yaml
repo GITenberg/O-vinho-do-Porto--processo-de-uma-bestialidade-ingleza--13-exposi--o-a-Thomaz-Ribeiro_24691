@@ -1,0 +1,41 @@
+_repo: O-vinho-do-Porto--processo-de-uma-bestialidade-ingleza--13-exposi--o-a-Thomaz-Ribeiro_24691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2008-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24691'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Wine and wine making -- Portugal -- Porto'
+- !lcsh 'Port wine'
+- !lcsh 'Great Britain -- Commerce -- Portugal'
+- !lcsh 'Export marketing -- Portugal'
+- !lcsh 'Portugal -- Commerce -- Great Britain'
+title: "O vinho do Porto: processo de uma bestialidade ingleza\r\nexposição a Thomaz\
+  \ Ribeiro"
+url: http://www.gutenberg.org/ebooks/24691
