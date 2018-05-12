@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24691#O-vinho-do-Porto--processo-de-uma-bestialidade-ingleza--13-exposi--o-a-Thomaz-Ribeiro
 gutenberg_issued: '2008-02-26'
 gutenberg_type: Text
 identifiers:
